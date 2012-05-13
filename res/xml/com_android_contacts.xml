@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="mipmap/ic_launcher_phone">@drawable/com_android_phone_ic_launcher_phone</item>
+    <item name="mipmap/ic_launcher_contacts">@drawable/com_android_phone_ic_launcher_contacts</item>
+    <item name="drawable/dial_num_0_wht">@drawable/com_android_contacts_dial_num_0_wht</item>
+    <item name="drawable/dial_num_1_wht">@drawable/com_android_contacts_dial_num_1_wht</item>
+    <item name="drawable/dial_num_2_wht">@drawable/com_android_contacts_dial_num_2_wht</item>
+    <item name="drawable/dial_num_3_wht">@drawable/com_android_contacts_dial_num_3_wht</item>
+    <item name="drawable/dial_num_4_wht">@drawable/com_android_contacts_dial_num_4_wht</item>
+    <item name="drawable/dial_num_5_wht">@drawable/com_android_contacts_dial_num_5_wht</item>
+    <item name="drawable/dial_num_6_wht">@drawable/com_android_contacts_dial_num_6_wht</item>
+    <item name="drawable/dial_num_7_wht">@drawable/com_android_contacts_dial_num_7_wht</item>
+    <item name="drawable/dial_num_8_wht">@drawable/com_android_contacts_dial_num_8_wht</item>
+    <item name="drawable/dial_num_9_wht">@drawable/com_android_contacts_dial_num_9_wht</item>
+    <item name="drawable/ab_solid_custom_blue_inverse_holo">@drawable/com_android_contacts_ab_solid_custom_blue_inverse_holo</item>
+    <item name="drawable/aggregation_suggestions_bg_light_holo">@drawable/com_android_contacts_aggregation_suggestions_bg_light_holo</item>
+    <item name="drawable/contacts_widget_preview">@drawable/com_android_contacts_contacts_widget_preview</item>
+    <item name="drawable/ic_call_incoming_holo_dark">@drawable/com_android_contacts_ic_call_incoming_holo_dark</item>
+    <item name="drawable/ic_call_voicemail_holo_dark">@drawable/com_android_contacts_ic_call_voicemail_holo_dark</item>
+    <item name="drawable/list_pressed_holo">@drawable/com_android_contacts_list_pressed_holo</item>
+    <item name="drawable/list_pressed_holo_light">@drawable/com_android_contacts_list_pressed_holo_light</item>
+    <item name="drawable/list_activated_holo">@drawable/com_android_contacts_list_activated_holo</item>
+    <item name="drawable/list_focused_holo">@drawable/com_android_contacts_list_focused_holo</item>
+    <item name="drawable/unknown_source">@drawable/com_android_contacts_unknown_source</item>
+    <item name="drawable/ic_play_active_holo_dark">@drawable/com_android_contacts_ic_play_active_holo_dark</item>
+    <item name="drawable/ic_launcher_contacts">@drawable/com_android_contacts_ic_launcher_contacts</item>
+    <item name="drawable/ic_launcher_phone">@drawable/com_android_contacts_ic_launcher_phone</item>
+    <item name="drawable/ic_launcher_shortcut_contact">@drawable/com_android_contacts_ic_launcher_shortcut_contact</item>
+    <item name="drawable/ic_launcher_shortcut_directdial">@drawable/com_android_contacts_ic_launcher_shortcut_directdial</item>
+    <item name="drawable/ic_launcher_shortcut_directmessage">@drawable/com_android_contacts_ic_launcher_shortcut_directmessage</item>
+    <item name="drawable/list_section_divider_holo_custom">@drawable/com_android_contacts_list_section_divider_holo_custom</item>
+    <item name="color/quickcontact_tab_indicator">@color/holo_blue_light</item>
+    <item name="color/call_log_voicemail_highlight_color">@color/holo_blue_light</item>
+    <item name="color/people_app_theme_color">@color/holo_blue_light</item>
+</resource-redirections>
