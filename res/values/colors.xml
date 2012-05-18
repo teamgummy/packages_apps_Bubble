@@ -72,15 +72,15 @@
     <color name="link_text_dark">#ffaaaaaa</color>
     <color name="link_text_light">#ff333333</color>
     <color name="suggestion_highlight_text">#ffffffff</color>
-    <color name="perms_dangerous_grp_color">#ffffffff</color>
-    <color name="perms_dangerous_perm_color">#ffffffff</color>
+    <color name="perms_dangerous_grp_color">#eb00a3</color>
+    <color name="perms_dangerous_perm_color">#eb00a3</color>
     <color name="search_url_text_normal">#ff999999</color>
     <color name="keyguard_text_color_unlock">#ffffffff</color>
     <color name="keyguard_text_color_soundon">#ffffffff</color>
     <color name="keyguard_text_color_decline">#ffffffff</color>
     <color name="lockscreen_clock_background">#cc000000</color>
     <color name="lockscreen_owner_info">#ffffffff</color>
-    <color name="highlighted_text_holo_dark">#66b0007a</color>
+    <color name="highlighted_text_holo_dark">#66eb00a3</color>
     <color name="highlighted_text_holo_light">#66eb00a3</color>
     <color name="link_text_holo_dark">#ffb0007a</color>
     <color name="link_text_holo_light">#ffeb00a3</color>
@@ -104,8 +104,34 @@
     <color name="launcher_glow_focused">#ffeb00a3</color>
 
     <color name="androidian_green">#ffeb00a3</color>
-    <color name="androidian_green_dark">#ffaadd00</color>
-    <color name="androidian_green_bright">#ff77aa00</color>
+    <color name="androidian_green_dark">#ffb0007a</color>
+    <color name="androidian_green_bright">#ff13b400</color>
 
+    <!-- For Browser -->
+    <color name="qc_normal">#E0eb00a3</color>
+    <color name="qc_selected">#F0b0007a</color>
+
+    <!-- For Calendar -->
+    <color name="today_highlight_color">#00eb00a3</color>
+    <color name="event_background">#ffeb00a3</color>
+    <color name="calendar_grid_area_selected">#e6eb00a3</color>
+    <color name="appwidget_row_in_progress">#66eb00a3</color>
+
+    <!-- For Camera -->
+    <color name="review_control_pressed_color">#FFeb00a3</color>
+    <color name="review_control_pressed_fan_color">#3Feb00a3</color>
+    <color name="popup_title_color">#ffeb00a3</color>
+    <color name="mode_selection_border">#eb00a3</color>
+
+    <!-- For Phone -->
+    <color name="incall_call_state_label_background">#80eb00a3</color>
+    <color name="people_app_theme_color">#eb00a3</color>
+
+    <!-- For Email -->
+    <color name="message_view_header_color">#eb00a3</color>
+    <color name="message_activated_color">#eb00a3</color>
+
+    <!-- For SystemUI -->
+    <drawable name="notification_item_background_color_pressed">#ffb0007a</drawable>
 </resources>
 

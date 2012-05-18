@@ -27,4 +27,6 @@
     <item name="drawable/one_pixel_border_pressed">@drawable/com_android_email_one_pixel_border_pressed</item>
     <item name="drawable/one_pixel_border_selected">@drawable/com_android_email_one_pixel_border_selected</item>
     <item name="mipmap/ic_launcher_email">@drawable/com_android_email_ic_launcher_email</item>
+    <item name="color/message_view_header_color">@color/message_view_header_color</item>
+    <item name="color/message_activated_color">@color/message_activated_color</item>
 </resource-redirections>

@@ -17,4 +17,18 @@
 
 <resource-redirections>
     <item name="mipmap/ic_launcher_calendar">@drawable/com_android_calendar_ic_launcher_calendar</item>
+    <item name="drawable/calname_bottom_select_underselect_pressed_holo_light">@drawable/com_android_calendar_calname_bottom_select_underselect_pressed_holo_light</item>
+    <item name="drawable/calname_bottom_select_underunselected_pressed_holo_light">@drawable/com_android_calendar_calname_bottom_select_underunselected_pressed_holo_light</item>
+    <item name="drawable/calname_bottom_unselected_pressed_holo_light">@drawable/com_android_calendar_calname_bottom_unselected_pressed_holo_light</item>
+    <item name="drawable/calname_bottom_unselected_underselect_pressed_holo_light">@drawable/com_android_calendar_calname_bottom_unselected_underselect_pressed_holo_light</item>
+    <item name="drawable/header_row_press_cal_widget_holo">@drawable/com_android_calendar_header_row_press_cal_widget_holo</item>
+    <item name="drawable/list_focused_holo">@drawable/com_android_calendar_list_focused_holo</item>
+    <item name="drawable/list_multi_left_focused_holo">@drawable/com_android_calendar_list_multi_left_focused_holo</item>
+    <item name="drawable/list_multi_left_pressed_holo">@drawable/com_android_calendar_list_multi_left_pressed_holo</item>
+    <item name="drawable/list_pressed_holo">@drawable/com_android_calendar_list_pressed_holo</item>
+    <item name="drawable/timeline_indicator_activated_holo_light">@drawable/com_android_calendar_timeline_indicator_activated_holo_light</item>
+    <item name="drawable/today_blue_week_holo_light">@drawable/com_android_calendar_today_blue_week_holo_light</item>
+    <item name="color/event_background">@color/event_background</item>
+    <item name="color/calendar_grid_area_selected">@color/calendar_grid_area_selected</item>
+    <item name="color/appwidget_row_in_progress">@color/appwidget_row_in_progress</item>
 </resource-redirections>

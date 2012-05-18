@@ -16,9 +16,17 @@
  -->
 
 <resource-redirections>
-    <item name="drawable/camera_background">@drawable/com_android_camera_background</item>
-    <item name="drawable/border_last_picture">@drawable/com_android_camera_border_last_picture</item>
-    <item name="drawable/btn_camera_review">@drawable/com_android_camera_btn_camera_review</item>
-    <item name="drawable/btn_mode_switch_knob">@drawable/com_android_camera_btn_mode_switch_knob</item>
-    <item name="drawable/btn_shutter">@drawable/com_android_camera_btn_shutter</item>
+    <item name="drawable/btn_camera_shutter_holo">@drawable/com_android_camera_btn_camera_shutter_holo</item>
+    <item name="drawable/btn_camera_shutter_pressed_holo">@drawable/com_android_camera_btn_camera_shutter_pressed_holo</item>
+    <item name="drawable/ic_highlight">@drawable/com_android_camera_ic_highlight</item>
+    <item name="drawable/ic_switch_arrow">@drawable/com_android_camera_ic_switch_arrow</item>
+    <item name="drawable/ic_switch_camera_selected_holo_dark">@drawable/com_android_camera_ic_switch_camera_selected_holo_dark</item>
+    <item name="drawable/ic_switch_video_selected_holo_dark">@drawable/com_android_camera_ic_switch_video_selected_holo_dark</item>
+    <item name="drawable/ic_zoom_slider_pressed">@drawable/com_android_camera_ic_zoom_slider_pressed</item>
+    <item name="drawable/list_pressed_holo_light">@drawable/com_android_camera_list_pressed_holo_light</item>
+    <item name="mipmap/ic_launcher_camera">@drawable/com_android_camera_ic_launcher_camera</item>
+    <item name="color/review_control_pressed_color">@color/review_control_pressed_color</item>
+    <item name="color/review_control_pressed_fan_color">@color/review_control_pressed_fan_color</item>
+    <item name="color/popup_title_color">@color/popup_title_color</item>
+    <item name="color/mode_selection_border">@color/mode_selection_border</item>
 </resource-redirections>

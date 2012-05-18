@@ -32,4 +32,6 @@
     <item name="drawable/ic_launcher_sip_call">@drawable/com_android_phone_ic_launcher_sip_call</item>
     <item name="drawable/list_focused_holo">@drawable/com_android_phone_list_focused_holo</item>
     <item name="drawable/list_pressed_holo_dark">@drawable/com_android_phone_list_pressed_holo_dark</item>
+    <item name="color/incall_call_state_label_background">@color/incall_call_state_label_background</item>
+    <item name="color/people_app_theme_color">@color/people_app_theme_color</item>
 </resource-redirections>
