@@ -33,6 +33,6 @@
     <item name="drawable/list_activated_holo">@drawable/com_google_android_talk_list_activated_holo</item>
     <item name="drawable/list_focused_holo">@drawable/com_google_android_talk_list_focused_holo</item>
     <item name="drawable/list_pressed_holo">@drawable/com_google_android_talk_list_pressed_holo</item>
-    <item name="video_panel_dropdown_title_bg_holo_dark">@drawable/com_google_android_talk_video_panel_dropdown_title_bg_holo_dark</item>
+    <item name="drawable/video_panel_dropdown_title_bg_holo_dark">@drawable/com_google_android_talk_video_panel_dropdown_title_bg_holo_dark</item>
 
 </resource-redirections>
