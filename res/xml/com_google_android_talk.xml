@@ -16,13 +16,23 @@
  -->
 
 <resource-redirections>
-    <item name="drawable/textfield_im_user_pressed_pad">@drawable/com_android_mms_textfield_im_user_pressed_pad</item>
-    <item name="drawable/textfield_im_user_selected_pad">@drawable/com_android_mms_textfield_im_user_selected_pad</item>
-    <item name="drawable/border_photo_thumbnail_pressed">@drawable/com_google_android_talk_border_photo_thumbnail_pressed</item>
-    <item name="drawable/border_photo_thumbnail_selected">@drawable/com_google_android_talk_border_photo_thumbnail_selected</item>
-    <item name="drawable/dashboard_highlight_selected">@drawable/com_google_android_talk_dashboard_highlight_selected</item>
-    <item name="drawable/im_avatar_picture_border_highlight">@drawable/com_google_android_talk_im_avatar_picture_border_highlight</item>
-    <item name="drawable/im_avatar_picture_border_pressed">@drawable/com_google_android_talk_im_avatar_picture_border_pressed</item>
-    <item name="drawable/im_bubble_highlight">@drawable/com_google_android_talk_im_bubble_highlight</item>
-    <item name="drawable/im_bubble_pressed">@drawable/com_google_android_talk_im_bubble_pressed</item>
+    <item name="drawable/ic_audio_ongoing_holo_light">@drawable/com_google_android_talk_ic_audio_ongoing_holo_light</item>
+    <item name="drawable/ic_audio_output_bluetooth_activated_holo_dark">@drawable/com_google_android_talk_ic_audio_output_bluetooth_activated_holo_dark</item>
+    <item name="drawable/ic_audio_output_handset_activated_holo_dark">@drawable/com_google_android_talk_ic_audio_output_handset_activated_holo_dark</item>
+    <item name="drawable/ic_audio_output_speaker_activated_holo_dark">@drawable/com_google_android_talk_ic_audio_output_speaker_activated_holo_dark</item>
+    <item name="drawable/ic_audio_output_wired_headphones_activated_holo_dark">@drawable/com_google_android_talk_ic_audio_output_wired_headphones_activated_holo_dark</item>
+    <item name="drawable/ic_im_logo_gtalk_splash">@drawable/com_google_android_talk_ic_im_logo_gtalk_splash</item>
+    <item name="mipmap/ic_launcher_google_talk">@drawable/com_google_android_talk_ic_launcher_google_talk</item>
+    <item name="drawable/ic_mute_audio_active_gray_holo_light">@drawable/com_google_android_talk_ic_mute_audio_active_gray_holo_light</item>
+    <item name="drawable/ic_mute_audio_active_white_holo_light">@drawable/com_google_android_talk_ic_mute_audio_active_white_holo_light</item>
+    <item name="drawable/ic_video_effects_activated_holo_dark">@drawable/com_google_android_talk_ic_video_effects_activated_holo_dark</item>
+    <item name="drawable/ic_video_effects_background_activated_holo_dark">@drawable/com_google_android_talk_ic_video_effects_background_activated_holo_dark</item>
+    <item name="drawable/ic_video_effects_image_stabilization_activated_holo_dark">@drawable/com_google_android_talk_ic_video_effects_image_stabilization_activated_holo_dark</item>
+    <item name="drawable/ic_video_effects_vco_activated_holo_dark">@drawable/com_google_android_talk_ic_video_effects_vco_activated_holo_dark</item>
+    <item name="drawable/ic_video_ongoing_holo_light">@drawable/com_google_android_talk_ic_video_ongoing_holo_light</item>
+    <item name="drawable/list_activated_holo">@drawable/com_google_android_talk_list_activated_holo</item>
+    <item name="drawable/list_focused_holo">@drawable/com_google_android_talk_list_focused_holo</item>
+    <item name="drawable/list_pressed_holo">@drawable/com_google_android_talk_list_pressed_holo</item>
+    <item name="video_panel_dropdown_title_bg_holo_dark">@drawable/com_google_android_talk_video_panel_dropdown_title_bg_holo_dark</item>
+
 </resource-redirections>
