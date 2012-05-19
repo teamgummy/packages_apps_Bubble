@@ -159,8 +159,6 @@
     <item name="drawable/rate_star_small_half_holo_light">@drawable/frameworks_res_rate_star_small_half_holo_light</item>
     <item name="drawable/rate_star_small_on_holo_dark">@drawable/frameworks_res_rate_star_small_on_holo_dark</item>
     <item name="drawable/rate_star_small_on_holo_light">@drawable/frameworks_res_rate_star_small_on_holo_light</item>
-    <item name="drawable/scrubber_progress_horizontal_holo_dark">@drawable/frameworks_res_scrubber_progress_horizontal_holo_dark</item>
-    <item name="drawable/scrubber_progress_horizontal_holo_light">@drawable/frameworks_res_scrubber_progress_horizontal_holo_light</item>
     <item name="drawable/scrubber_control_disabled_holo">@drawable/frameworks_res_scrubber_control_disabled_holo</item>
     <item name="drawable/scrubber_control_focused_holo">@drawable/frameworks_res_scrubber_control_focused_holo</item>
     <item name="drawable/scrubber_control_normal_holo">@drawable/frameworks_res_scrubber_control_normal_holo</item>
