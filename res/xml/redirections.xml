@@ -27,6 +27,14 @@
         android:minSdkVersion="7"
         android:resource="@xml/com_anddoes_launcher" />
 
+    <package-redirections android:name="com.teslacoilsw.launcher"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_teslacoilsw_launcher" />
+
+    <package-redirections android:name="com.android.launcher"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_launcher" />
+
     <package-redirections android:name="com.android.camera"
         android:minSdkVersion="7"
         android:resource="@xml/com_android_camera" />
